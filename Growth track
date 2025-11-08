@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Me - Minimal Intro</title>
+  <style>
+    body {
+      font-family: "Poppins", sans-serif;
+      background-color: #f9f9f9;
+      color: #222;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .intro {
+      background: #fff;
+      padding: 30px 40px;
+      border-radius: 16px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      max-width: 500px;
+      text-align: center;
+      line-height: 1.6;
+    }
+    h1 {
+      font-size: 1.8em;
+      margin-bottom: 10px;
+      color: #0073e6;
+    }
+  </style>
+</head>
+<body>
+  <div class="intro">
+    <h1>About Me</h1>
+    <p>Passionate about building innovative apps and exploring modern technologies.</p>
+    <p>Currently developing a new project and documenting each step on GitHub.</p>
+    <p>Focused on writing clean, efficient, and purposeful code.</p>
+    <p>I believe in learning something new every day to stay ahead.</p>
+    <p>Striving for excellence through creativity, logic, and consistency.</p>
+    <p>Dedicated to turning ideas into impactful digital solutions.</p>
+  </div>
+</body>
+</html>
