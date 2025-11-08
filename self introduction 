@@ -1,0 +1,24 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Kavipriya — Self Introduction</title>
+    <style>
+      :root{font-family:system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;line-height:1.4}
+      body{display:flex;min-height:100vh;margin:0;align-items:center;justify-content:center;background:#f7f7f8}
+      .card{background:#fff;padding:1.25rem 1.5rem;border-radius:12px;box-shadow:0 6px 18px rgba(0,0,0,0.06);max-width:640px;width:90%}
+      h1{margin:0 0 .4rem;font-size:1.25rem}
+      p{margin:.25rem 0;color:#222}
+      .meta{color:#555;font-size:.95rem}
+    </style>
+  </head>
+  <body>
+    <article class="card" aria-labelledby="name">
+      <h1 id="name">Kavipriya J</h1>
+      <p class="meta">Cybersecurity graduate — SRM University</p>
+      <p>Hi, I’m <strong>Kavipriya</strong>, a Cybersecurity graduate from SRM University. I am hardworking, dedicated, and value honesty, respect, and teamwork. I continually improve my skills and am currently learning coding to strengthen my technical expertise. I am committed to professional growth and eager to participate in workshops and hands-on learning opportunities.</p>
+    </article>
+  </body>
+</html>
